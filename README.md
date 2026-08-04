@@ -12,8 +12,6 @@ AI Policy Intelligence System is an end-to-end AI application that enables users
 
 ---
 
-# ✨ Key Features
-
 # ✨ Key Features & AI Capabilities
 
 - 🤖 AI-powered renewable energy policy search and intelligent document analysis
