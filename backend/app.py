@@ -60,7 +60,7 @@ def shutdown_scheduler():
 
 @app.get("/")
 def home():
-    return {"message": " Policy AI Backend Running 🚀"}
+    return {"message": "Policy AI Backend Running 🚀"}
 
 @app.get("/debug/memory")
 def memory_snapshot():
