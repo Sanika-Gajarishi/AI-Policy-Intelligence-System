@@ -1,173 +1,159 @@
-# 🌍 ClimateHub AI Policy Dashboard
+# 🌍 AI Policy Intelligence System
 
-> An intelligent AI-powered platform for analyzing, searching, and exploring climate policy documents — built for researchers, policymakers, and organizations working on climate action.
+An AI-powered platform for discovering, analyzing, and interacting with renewable energy and climate policy documents using **Retrieval-Augmented Generation (RAG)**, **Semantic Search**, and **Large Language Models (LLMs)**.
 
----
-
-## 📌 Overview
-
-The **ClimateHub AI Policy Dashboard** is a full-stack web application that enables users to upload, index, and query climate policy documents using advanced AI. It leverages vector search and large language models to provide accurate, context-aware answers from a curated document database.
+Designed to simplify policy research by combining intelligent document ingestion, OCR, vector search, AI-driven question answering, and automated policy collection into a single platform.
 
 ---
 
-## ✨ Features
+# 🚀 Overview
 
-- 🔍 **AI-Powered Search** — Ask questions in natural language and get answers from policy documents
-- 📄 **Document Upload & Indexing** — Upload PDFs and automatically index them for semantic search
-- 🧠 **Claude AI Integration** — Powered by Anthropic's Claude for intelligent responses
-- ☁️ **Google Drive Integration** — Bulk upload and sync documents from Google Drive
-- 📊 **Export Results** — Export query results and reports
-- 🗂️ **Vector Store** — Fast semantic search using ChromaDB
-- 🌐 **Modern React Frontend** — Clean, responsive UI for seamless user experience
-- 🔄 **Real-time Query Processing** — Instant responses with session management
+AI Policy Intelligence System is an end-to-end AI application that enables users to collect, process, index, search, and analyze renewable energy policy documents from multiple government sources. The platform automatically scrapes policy documents, extracts and indexes content using OCR and vector embeddings, and provides context-aware AI responses through Google Gemini and Anthropic Claude. It also supports secure user authentication, persistent chat history, Google Drive synchronization, report generation, and cloud-native deployment for a seamless research experience.
 
 ---
 
-## 🛠️ Tech Stack
+# ✨ Key Features
+
+# ✨ Key Features & AI Capabilities
+
+- 🤖 AI-powered renewable energy policy search and intelligent document analysis
+- 🌐 Automated web scraping pipeline for collecting renewable energy policies from multiple government portals
+- 📄 Intelligent PDF ingestion with OCR-based text extraction for scanned and digital documents
+- 🧠 Retrieval-Augmented Generation (RAG) for context-aware policy question answering
+- 🔍 Semantic search using vector embeddings and ChromaDB for accurate document retrieval
+- 📂 Automated document chunking, metadata extraction, and semantic indexing
+- ☁️ Google Drive integration for document synchronization and centralized storage
+- 💬 AI-powered conversational assistant with secure authentication and persistent chat history
+- 📊 AI-generated policy summaries, insights, and comparative analysis
+- 📤 Export AI-generated reports and PowerPoint presentations
+- 🐳 Containerized application using Docker with deployment on **Google Cloud Platform (Backend)** and **Vercel (Frontend)**
+---
+
+# 🛠️ Tech Stack
+
+## Backend
+
+- Python
+- Flask
+- REST APIs
+- Google Gemini API
+- Anthropic Claude API
+- ChromaDB
+- Retrieval-Augmented Generation (RAG)
+- Vector Embeddings
+- Google Drive API
+- Firebase Admin SDK
+- Tesseract OCR
+- PDF Processing & Metadata Extraction
+- Docker
+
+---
+
+## Frontend
+
+- React.js
+- JavaScript (ES6+)
+- Tailwind CSS
+- Firebase Authentication
+- Axios
+- React Router
+
+---
+
+## AI & Machine Learning
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Semantic Search
+- Vector Embeddings
+- Intelligent Document Retrieval
+- AI-powered Question Answering
+- Policy Summarization
+
+---
+
+## Cloud & Deployment
 
 ### Backend
-| Technology | Purpose |
-|---|---|
-| Python + Flask | REST API server |
-| Anthropic Claude | AI language model |
-| ChromaDB | Vector store for semantic search |
-| Tesseract OCR | PDF text extraction |
-| Google Drive API | Document sync |
+
+- Google Cloud Platform (GCP)
+- Google Cloud Run
+- Docker
 
 ### Frontend
-| Technology | Purpose |
-|---|---|
-| React.js | UI framework |
-| Node.js | Runtime environment |
-| Nginx | Web server & reverse proxy |
+
+- Vercel
 
 ---
 
-## 📁 Project Structure
+# 🔑 Environment Variables
 
-```
-AI-Policy-Dashboard/
-├── backend/
-│   ├── app.py                    # Main Flask application
-│   ├── routes/
-│   │   ├── query.py              # Query handling routes
-│   │   └── export.py             # Export functionality
-│   ├── services/
-│   │   ├── claude.py             # Claude AI integration
-│   │   └── google_drive_service.py
-│   ├── data/                     # Document storage (gitignored)
-│   └── requirements.txt          # Python dependencies
-├── frontend/
-│   ├── src/                      # React source files
-│   └── package.json
-├── .gitignore
-├── README.md
-└── TROUBLESHOOTING.md
-```
-
----
-
-## ⚙️ Installation & Setup
-
-### Prerequisites
-- Python 3.9+
-- Node.js 18+
-- Tesseract OCR
-- Google Cloud credentials
-- Anthropic API key
-
-### Backend Setup
-
-```bash
-# Navigate to backend
-cd backend
-
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Create .env file
-cp .env.example .env
-# Add your API keys to .env
-```
-
-### Frontend Setup
-
-```bash
-# Navigate to frontend
-cd frontend
-
-# Install dependencies
-npm install
-
-# Start development server
-npm start
-```
-
-### Environment Variables
-
-Create a `.env` file in the `backend/` folder:
+Example:
 
 ```env
-ANTHROPIC_API_KEY=your_anthropic_api_key
-GOOGLE_DRIVE_CREDENTIALS=path_to_credentials.json
+GEMINI_API_KEY=your_api_key
+ANTHROPIC_API_KEY=your_api_key
+GOOGLE_DRIVE_CREDENTIALS=credentials.json
+FIREBASE_API_KEY=your_firebase_key
 ```
 
 ---
 
-## 🚀 Running the Application
+# 🚀 Running the Application
 
-### Start Backend
+## Start Backend
+
 ```bash
 cd backend
 python app.py
 ```
 
-### Start Frontend
+## Start Frontend
+
 ```bash
 cd frontend
 npm start
 ```
 
-The app will be available at `http://localhost:3000`
+---
+
+# ☁️ Deployment
+
+| Service | Platform |
+|----------|----------|
+| Frontend | Vercel |
+| Backend | Google Cloud Platform (Cloud Run) |
+| Containerization | Docker |
 
 ---
 
-## ☁️ Deployment
+# 📌 Future Enhancements
 
-This project is deployed on **Google Cloud Run** with continuous deployment from this GitHub repository.
-
-- **Backend:** Python Flask service on Cloud Run
-- **Frontend:** React app served via Nginx on Cloud Run
-- **CI/CD:** Automatic builds triggered on push to `main` branch
-
----
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+- Multi-language policy support
+- AI-powered policy recommendation engine
+- Policy comparison and contradiction analysis
+- Advanced analytics dashboard
+- Role-based access control
+- Real-time policy update notifications
+- Support for additional renewable energy policy sources
 
 ---
 
-## 📧 Contact
+# 👩‍💻 Developer
 
-**Organization:** [chia-stack](https://github.com/chia-stack)  
-**Email:** sanika@climatehub.in  
-**Project:** [AI-Policy-Dashboard](https://github.com/chia-stack/AI-Policy-Dashboard)
+**Sanika Gajarishi**
+
+🎓 B.Tech in Artificial Intelligence & Data Science
+
+**GitHub:** https://github.com/Sanika-Gajarishi
+
+---
+## 🌐 Live Demo
+
+🚀 **Live Application:** https://ai-policy-dashboard-neon.vercel.app/
+
+Explore the deployed application to experience AI-powered renewable energy policy search, semantic document retrieval, conversational policy analysis, and intelligent document processing in action.
 
 ---
 
-## 📄 License
-
-This project is private and proprietary to **ClimateHub / chia-stack**.
-
----
-
-*Built with ❤️ for Climate Action*
+⭐ **If you found this project interesting, consider giving it a Star!**
