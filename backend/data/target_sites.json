@@ -1,0 +1,178 @@
+[
+  {
+    "id": "merc",
+    "name": "MERC",
+    "full_name": "Maharashtra Electricity Regulatory Commission",
+    "base_url": "https://merc.gov.in",
+    "scrape_urls": [
+      "https://merc.gov.in/orders/",
+      "https://merc.gov.in/gom-rules-notifications/",
+      "https://merc.gov.in/goi_rule_noti/rules-by-notification/"
+    ],
+    "default_category": "Order",
+    "state": "Maharashtra",
+    "enabled": true,
+    "needs_js": true,
+    "deep_crawl": true,
+    "allow_standing_policies": true,
+    "max_pages_per_run": 30,
+    "max_new_per_run": 10,
+    "standing_bypass_doc_types": ["Regulation", "Act"],
+    "standing_policies_already_seeded": true
+  },
+  {
+    "id": "meda",
+    "name": "MEDA",
+    "full_name": "Maharashtra Energy Development Agency",
+    "base_url": "https://www.mahaurja.maharashtra.gov.in",
+    "scrape_urls": [
+      "https://www.mahaurja.maharashtra.gov.in/Site/1606/Policies",
+      "https://www.mahaurja.maharashtra.gov.in/Site/1539/Solar-Power",
+      "https://www.mahaurja.maharashtra.gov.in/Site/1538/Wind-Power",
+      "https://www.mahaurja.maharashtra.gov.in/Site/1544/Wind-Solar-Hybrid",
+      "https://www.mahaurja.maharashtra.gov.in/Site/1578/Solar-State-Policy",
+      "https://www.mahaurja.maharashtra.gov.in/Site/1577/Solar-Central-Policy",
+      "https://www.mahaurja.maharashtra.gov.in/Site/1592/Small-Hydro-State-Policy",
+      "https://www.mahaurja.maharashtra.gov.in/Site/1565/State-Policy",
+      "https://www.mahaurja.maharashtra.gov.in/Site/1712/Regulations-and-Regulatory-Orders",
+      "https://www.mahaurja.maharashtra.gov.in/Site/1716/MERC%20Generic%20Tariff%20Orders",
+      "https://www.mahaurja.maharashtra.gov.in/Site/1615/Latest-News-Or-Events"
+    ],
+    "default_category": "Policy",
+    "state": "Maharashtra",
+    "enabled": true,
+    "needs_js": true,
+    "deep_crawl": true,
+    "allow_standing_policies": true,
+    "standing_policies_already_seeded": false,
+    "standing_bypass_doc_types": [
+      "Policy",
+      "Act",
+      "Regulation",
+      "Notification"
+    ],
+    "max_pages_per_run": 50,
+    "max_new_per_run": 15
+  },
+  {
+    "id": "cerc",
+    "name": "CERC",
+    "full_name": "Central Electricity Regulatory Commission",
+    "base_url": "https://cercind.gov.in",
+    "scrape_urls": [
+      "https://cercind.gov.in/orders.html",
+      "https://cercind.gov.in/Regulations.html",
+      "https://cercind.gov.in/Notification.html",
+      "https://cercind.gov.in/recent_orders.html",
+      "https://www.cercind.gov.in/Current_reg.html"
+    ],
+    "default_category": "Order",
+    "state": "Central",
+    "enabled": true,
+    "needs_js": true,
+    "deep_crawl": true,
+    "allow_standing_policies": true,
+    "max_pages_per_run": 20,
+    "max_new_per_run": 15,
+    "standing_bypass_doc_types": ["Regulation", "Act"],
+    "standing_policies_already_seeded": true
+  },
+  {
+    "id": "mnre",
+    "name": "MNRE",
+    "full_name": "Ministry of New and Renewable Energy",
+    "base_url": "https://mnre.gov.in",
+    "scrape_urls": [
+      "https://mnre.gov.in/en/notifications-circulars/",
+      "https://mnre.gov.in/en/notice-category/current-notices/",
+      "https://mnre.gov.in/en/past-notices/current-notices/",
+      "https://mnre.gov.in/en/document-category/notifications-circulars/",
+      "https://mnre.gov.in/en/policies-and-regulations/schemes-and-guidelines/guidelines/",
+      "https://mnre.gov.in/en/lab-policy-standard-quality-control-documents/",
+      "https://mnre.gov.in/en/documents/",
+      "https://mnre.gov.in/en/monthly-updates/"
+    ],
+    "default_category": "Notification",
+    "state": "Central",
+    "enabled": true,
+    "needs_js": true,
+    "deep_crawl": true,
+    "max_pages_per_run": 20,
+    "max_new_per_run": 15
+  },
+  {
+    "id": "geda",
+    "name": "GEDA",
+    "full_name": "Gujarat Energy Development Agency",
+    "base_url": "https://geda.gujarat.gov.in",
+    "scrape_urls": [
+      "https://geda.gujarat.gov.in/geda/2023/12/9/Policy/3157",
+      "https://geda.gujarat.gov.in/geda/2026/5/6/Policy/11341"
+    ],
+    "default_category": "Policy",
+    "state": "Gujarat",
+    "enabled": true,
+    "needs_js": true,
+    "deep_crawl": true,
+    "allow_standing_policies": true,
+    "standing_policies_already_seeded": true,
+    "max_pages_per_run": 20,
+    "max_new_per_run": 25
+  },
+  {
+    "id": "gerc",
+    "name": "GERC",
+    "full_name": "Gujarat Electricity Regulatory Commission",
+    "base_url": "https://gercin.org",
+    "scrape_urls": [
+      "https://gercin.org/orders/",
+      "https://gercin.org/order-category/orders-on-renewable-energy/",
+      "https://gercin.org/order-category/tariff-orders/"
+    ],
+    "default_category": "Order",
+    "state": "Gujarat",
+    "enabled": true,
+    "needs_js": true,
+    "deep_crawl": true,
+    "allow_standing_policies": true,
+    "max_pages_per_run": 20,
+    "max_new_per_run": 15,
+    "standing_bypass_doc_types": ["Regulation", "Act"],
+    "standing_policies_already_seeded": true
+  },
+  {
+    "id": "guvnl",
+    "name": "GUVNL",
+    "full_name": "Gujarat Urja Vikas Nigam Limited",
+    "base_url": "https://guvnl.com",
+    "scrape_urls": [
+      "https://guvnl.com/guvnl_re_tenders.html?page=1",
+      "https://guvnl.com/circulars_main.html?page=1",
+      "https://guvnl.com/guvnl_policies.html"
+    ],
+    "default_category": "Tender",
+    "state": "Gujarat",
+    "enabled": true,
+    "needs_js": true,
+    "deep_crawl": true,
+    "max_pages_per_run": 10,
+    "max_new_per_run": 10
+  },
+  {
+    "id": "msedcl",
+    "name": "Mahadiscom",
+    "full_name": "Maharashtra State Electricity Distribution Co. Ltd.",
+    "base_url": "https://www.mahadiscom.in",
+    "scrape_urls": [
+      "https://www.mahadiscom.in/supplier/en/renewable-energy-circulars/",
+      "https://www.mahadiscom.in/en/consumer/tariff-details/"
+    ],
+    "default_category": "Circular",
+    "state": "Maharashtra",
+    "enabled": true,
+    "needs_js": true,
+    "deep_crawl": true,
+    "max_pages_per_run": 20,
+    "max_new_per_run": 10
+  }
+]

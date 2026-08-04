@@ -1,0 +1,345 @@
+[
+  {
+    "file": "Gujarat_Wind-Solar-Hybrid_Order_1_2024.pdf",
+    "state": "Gujarat",
+    "year": 2024,
+    "month": "January",
+    "power_type": "Wind-Solar-Hybrid_Order_1",
+    "category": "Order",
+    "drive_id": "1WkONP_Ac6gc4Cgphbfk0T5EeF5GhV97d",
+    "drive_link": "https://drive.google.com/file/d/1WkONP_Ac6gc4Cgphbfk0T5EeF5GhV97d/view?usp=drivesdk"
+  },
+  {
+    "file": "Maharashtra_Renewable Energy and Energy Storage_Policy_2025-26 to 2035-36.pdf",
+    "state": "Maharashtra",
+    "year": 2025,
+    "month": "",
+    "power_type": "Renewable Energy and Energy Storage",
+    "category": "Policy",
+    "drive_id": "1jyV6pojion743cftiEtC-FhsLF8YW-Lv",
+    "drive_link": "https://drive.google.com/file/d/1jyV6pojion743cftiEtC-FhsLF8YW-Lv/view?usp=drivesdk"
+  },
+  {
+    "file": "Maharashtra_Solar_Policy_2023.pdf",
+    "state": "Maharashtra",
+    "year": 2023,
+    "month": "",
+    "power_type": "Solar",
+    "category": "Policy",
+    "drive_id": "1d2lCpaF418Pe1WnBwKeIKO-9gATpdrgk",
+    "drive_link": "https://drive.google.com/file/d/1d2lCpaF418Pe1WnBwKeIKO-9gATpdrgk/view?usp=drivesdk"
+  },
+  {
+    "file": "Central_ESS_Notification_2022.pdf",
+    "state": "Central",
+    "year": 2022,
+    "month": "",
+    "power_type": "ESS",
+    "category": "Notification",
+    "drive_id": "1PXvMem7_L77y4K34d7VhE5pL86g3O0b5",
+    "drive_link": "https://drive.google.com/file/d/1PXvMem7_L77y4K34d7VhE5pL86g3O0b5/view?usp=drivesdk"
+  },
+  {
+    "file": "Central_ESS_Circular_2025.pdf",
+    "state": "Central",
+    "year": 2025,
+    "month": "",
+    "power_type": "ESS",
+    "category": "Circular",
+    "drive_id": "1K80PpQMehDl9VeH3IRCBfrFScecHVDeK",
+    "drive_link": "https://drive.google.com/file/d/1K80PpQMehDl9VeH3IRCBfrFScecHVDeK/view?usp=drivesdk"
+  },
+  {
+    "file": "Central_ESS_Regulations_2022.pdf",
+    "state": "Central",
+    "year": 2022,
+    "month": "",
+    "power_type": "ESS",
+    "category": "Regulation",
+    "drive_id": "1ZftEJ12NCRUuvfC0tIORBg8m50laggVu",
+    "drive_link": "https://drive.google.com/file/d/1ZftEJ12NCRUuvfC0tIORBg8m50laggVu/view?usp=drivesdk"
+  },
+  {
+    "file": "Central_ESS_Order_2022.pdf",
+    "state": "Central",
+    "year": 2022,
+    "month": "",
+    "power_type": "ESS",
+    "category": "Order",
+    "drive_id": "188ZAxjA98Vq5OL1MAmCg94PQguXsQt6W",
+    "drive_link": "https://drive.google.com/file/d/188ZAxjA98Vq5OL1MAmCg94PQguXsQt6W/view?usp=drivesdk"
+  },
+  {
+    "file": "Central_ESS_Roadmap_2019.pdf",
+    "state": "Central",
+    "year": 2019,
+    "month": "",
+    "power_type": "ESS",
+    "category": "Roadmap",
+    "drive_id": "1hAoYYMd228wHTd920cHqWZkTAZPROten",
+    "drive_link": "https://drive.google.com/file/d/1hAoYYMd228wHTd920cHqWZkTAZPROten/view?usp=drivesdk"
+  },
+  {
+    "file": "Central_ESS_Order_2025.pdf",
+    "state": "Central",
+    "year": 2025,
+    "month": "",
+    "power_type": "ESS",
+    "category": "Order",
+    "drive_id": "1QMFiIYw2QV44jEfcCj1Y-i9NUZgO6nFU",
+    "drive_link": "https://drive.google.com/file/d/1QMFiIYw2QV44jEfcCj1Y-i9NUZgO6nFU/view?usp=drivesdk"
+  },
+  {
+    "file": "Maharashtra_Renewable Energy_Regulation_2024.pdf",
+    "state": "Maharashtra",
+    "year": 2024,
+    "month": "",
+    "power_type": "Renewable Energy",
+    "category": "Regulation",
+    "drive_id": "1FH8nzPZlrR1WLtAvMpuiWuG8RMrKWwaA",
+    "drive_link": "https://drive.google.com/file/d/1FH8nzPZlrR1WLtAvMpuiWuG8RMrKWwaA/view?usp=drivesdk"
+  },
+  {
+    "file": "Central_BESS_Order No 1_2024.pdf",
+    "state": "Central",
+    "year": 2024,
+    "month": "January",
+    "power_type": "BESS_Order No 1",
+    "category": "Order",
+    "drive_id": "1g2-uzjB6BYiI4owJejjJ7yFFQ8GKfGSy",
+    "drive_link": "https://drive.google.com/file/d/1g2-uzjB6BYiI4owJejjJ7yFFQ8GKfGSy/view?usp=drivesdk"
+  },
+  {
+    "file": "Central_BESS_Gazette_2023.pdf",
+    "state": "Central",
+    "year": 2023,
+    "month": "January",
+    "power_type": "BESS",
+    "category": "Gazette",
+    "drive_id": "1JyeeeZLeVyignNFdWA2ihkR1kc19E1PY",
+    "drive_link": "https://drive.google.com/file/d/1JyeeeZLeVyignNFdWA2ihkR1kc19E1PY/view?usp=drivesdk"
+  },
+  {
+    "file": "Central_BESS_Order_2024.pdf",
+    "state": "Central",
+    "year": 2024,
+    "month": "January",
+    "power_type": "BESS",
+    "category": "Order",
+    "drive_id": "1-x0ZX5azVQeP9Efbo4Th0URGIL0N9JOM",
+    "drive_link": "https://drive.google.com/file/d/1-x0ZX5azVQeP9Efbo4Th0URGIL0N9JOM/view?usp=drivesdk"
+  },
+  {
+    "file": "Central_BESS_Roadmap_2025.pdf",
+    "state": "Central",
+    "year": 2025,
+    "month": "January",
+    "power_type": "BESS_Roadmap",
+    "category": "Road Map",
+    "drive_id": "10ecTXRr4l1D7_GyOb5IPQJhBWvB_I1UR",
+    "drive_link": "https://drive.google.com/file/d/10ecTXRr4l1D7_GyOb5IPQJhBWvB_I1UR/view?usp=drivesdk"
+  },
+  {
+    "file": "Central_Battery Energy Storage Systems_Gazette_2022.pdf",
+    "state": "Central",
+    "year": 2022,
+    "month": "January",
+    "power_type": "Battery Energy Storage Systems",
+    "category": "Gazette",
+    "drive_id": "1aWrRMvYgUlkxuskNig1zDwsmhN-PMzjm",
+    "drive_link": "https://drive.google.com/file/d/1aWrRMvYgUlkxuskNig1zDwsmhN-PMzjm/view?usp=drivesdk"
+  },
+  {
+    "file": "Gujarat_Wind_Policy_2012.pdf",
+    "state": "Gujarat",
+    "year": 2012,
+    "month": "June",
+    "power_type": "Wind",
+    "category": "Policy",
+    "drive_file_id": "16X0SODxQI7U3P_Y0J18QaSgln2pyL7Ni",
+    "drive_url": "https://drive.google.com/file/d/16X0SODxQI7U3P_Y0J18QaSgln2pyL7Ni/view?usp=drivesdk",
+    "drive_id": "16X0SODxQI7U3P_Y0J18QaSgln2pyL7Ni",
+    "drive_link": "https://drive.google.com/file/d/16X0SODxQI7U3P_Y0J18QaSgln2pyL7Ni/view?usp=drivesdk"
+  },
+  {
+    "file": "Gujarat_Solar Power_policy_2009.pdf",
+    "state": "Gujarat",
+    "year": 2009,
+    "month": "January",
+    "power_type": "Solar Power_policy",
+    "category": "Policy",
+    "drive_id": "1RnIxXFt8LjAJ5H3b_RtPhmtrKg0T07bF",
+    "drive_link": "https://drive.google.com/file/d/1RnIxXFt8LjAJ5H3b_RtPhmtrKg0T07bF/view?usp=drivesdk"
+  },
+  {
+    "file": "Gujarat_Power Generation_Policy_2009.pdf",
+    "state": "Gujarat",
+    "year": 2009,
+    "month": "January",
+    "power_type": "Power Generation",
+    "category": "Policy",
+    "drive_id": "1iNUyJMUxTWnRRnPWzOG_1IHxKiktqgV8",
+    "drive_link": "https://drive.google.com/file/d/1iNUyJMUxTWnRRnPWzOG_1IHxKiktqgV8/view?usp=drivesdk"
+  },
+  {
+    "file": "Gujarat _Wind Solar Hyprid Power_Policy_2018.pdf",
+    "state": "Gujarat",
+    "year": 2018,
+    "month": "January",
+    "power_type": "Wind Solar Hyprid Power",
+    "category": "Policy",
+    "drive_id": "1UtkcJh7MmEItBojJiL4CfK48XrogdPbN",
+    "drive_link": "https://drive.google.com/file/d/1UtkcJh7MmEItBojJiL4CfK48XrogdPbN/view?usp=drivesdk"
+  },
+  {
+    "file": "Gujarat_Wind-Solar Hybrid Power_Order_2021.pdf",
+    "state": "Gujarat",
+    "year": 2021,
+    "month": "January",
+    "power_type": "Wind-Solar Hybrid Power",
+    "category": "Order",
+    "drive_id": "1hrk_mXj9IoHGIPVtruNh0PvexdxUxsEq",
+    "drive_link": "https://drive.google.com/file/d/1hrk_mXj9IoHGIPVtruNh0PvexdxUxsEq/view?usp=drivesdk"
+  },
+  {
+    "file": "Rajasthan_Integrated Clean Energy_Policy_2024.pdf",
+    "state": "Rajasthan",
+    "year": 2024,
+    "month": "January",
+    "power_type": "Integrated Clean Energy",
+    "category": "Policy",
+    "drive_id": "1kgkmERCXOknAchmYJadOIniMGbXcFVzY",
+    "drive_link": "https://drive.google.com/file/d/1kgkmERCXOknAchmYJadOIniMGbXcFVzY/view?usp=drivesdk"
+  },
+  {
+    "file": "Gujarat_Solar Power_Policy_2021.pdf",
+    "state": "Gujarat",
+    "year": 2021,
+    "month": "January",
+    "power_type": "Solar Power",
+    "category": "Policy",
+    "drive_id": "1c9VsncwdPglFiJ7ScG_qAFadkg-SlKUF",
+    "drive_link": "https://drive.google.com/file/d/1c9VsncwdPglFiJ7ScG_qAFadkg-SlKUF/view?usp=drivesdk"
+  },
+  {
+    "file": "Maharashtra_Wind_Policy_2025.pdf",
+    "state": "Maharashtra",
+    "year": 2025,
+    "month": "March",
+    "power_type": "Wind",
+    "category": "Policy",
+    "drive_id": "1qRPFbzx8UshJzlI269vmwEdbt85Fogvr",
+    "drive_link": "https://drive.google.com/file/d/1qRPFbzx8UshJzlI269vmwEdbt85Fogvr/view?usp=drivesdk"
+  },
+  {
+    "file": "Gujarat_Renewable Energy_Policy_2023.pdf",
+    "state": "Gujarat",
+    "year": 2023,
+    "month": "",
+    "power_type": "Renewable Energy",
+    "category": "Policy",
+    "drive_id": "12luupWmZPzDHbJn6C7qpK8vyPkV4lk9J",
+    "drive_link": "https://drive.google.com/file/d/12luupWmZPzDHbJn6C7qpK8vyPkV4lk9J/view?usp=drivesdk"
+  },
+  
+  {
+    "file": "Maharashtra_Mukhyamantri Saur Krushi Vahini Yojana_Solar_Policy_2023.pdf",
+    "state": "Maharashtra",
+    "year": 2023,
+    "month": "January",
+    "power_type": "Mukhyamantri Saur Krushi Vahini Yojana_Solar",
+    "category": "Policy",
+    "drive_id": "1OvLRPu8ct3gooPJGTqP7gmLlSLS76c5Y",
+    "drive_link": "https://drive.google.com/file/d/1OvLRPu8ct3gooPJGTqP7gmLlSLS76c5Y/view?usp=drivesdk"
+  },
+  {
+    "file": "Maharashtra_Renewable Energy Generation_Policy_2020.pdf",
+    "state": "Maharashtra",
+    "year": 2020,
+    "month": "January",
+    "power_type": "Renewable Energy Generation",
+    "category": "Policy",
+    "drive_id": "11IjGjNMtzBUvJQscJHDOIs_iDtiMESUa",
+    "drive_link": "https://drive.google.com/file/d/11IjGjNMtzBUvJQscJHDOIs_iDtiMESUa/view?usp=drivesdk"
+  },
+  {
+    "file": "Gujarat_Solar Power_Policy_2015.pdf",
+    "state": "Gujarat",
+    "year": 2015,
+    "month": "January",
+    "power_type": "Solar Power",
+    "category": "Policy",
+    "drive_id": "1-rrmUNI7dddfxG1Qi2_qyA1hyyxljx8j",
+    "drive_link": "https://drive.google.com/file/d/1-rrmUNI7dddfxG1Qi2_qyA1hyyxljx8j/view?usp=drivesdk"
+  },
+  {
+    "file": "Gujarat_Solar_Order_2025.pdf",
+    "state": "Gujarat",
+    "year": 2025,
+    "month": "December",
+    "power_type": "Solar",
+    "category": "Order",
+    "drive_id": "1CCEjORWjfAVnAmyi1s9CL5m-FK6vu_Mn",
+    "drive_link": "https://drive.google.com/file/d/1CCEjORWjfAVnAmyi1s9CL5m-FK6vu_Mn/view?usp=drivesdk"
+  },
+  {
+    "file": "Gujarat_Wind-Solar Hybrid Power_Policy_2018.pdf",
+    "state": "Gujarat",
+    "year": 2018,
+    "month": "January",
+    "power_type": "Wind-Solar Hybrid Power",
+    "category": "Policy",
+    "drive_id": "1EkXoEn9cpUqSrRnPziw2HSvBBW3d7Qvc",
+    "drive_link": "https://drive.google.com/file/d/1EkXoEn9cpUqSrRnPziw2HSvBBW3d7Qvc/view?usp=drivesdk"
+  },
+  {
+    "file": "Gujarat_Wind-Tariff_Order 4_2020.pdf",
+    "state": "Gujarat",
+    "year": 2020,
+    "month": "January",
+    "power_type": "Wind-Tariff_Order 4",
+    "category": "Order",
+    "drive_id": "17a9zzqfq84F640v0G9h59AOnadTQUFjI",
+    "drive_link": "https://drive.google.com/file/d/17a9zzqfq84F640v0G9h59AOnadTQUFjI/view?usp=drivesdk"
+  },
+  {
+    "file": "Gujarat_Wind Power_Policy_2016.pdf",
+    "state": "Gujarat",
+    "year": 2016,
+    "month": "January",
+    "power_type": "Wind Power",
+    "category": "Policy",
+    "drive_id": "16RtoomT8HS_-J4Nn2pRVzLU8WSqARoJ4",
+    "drive_link": "https://drive.google.com/file/d/16RtoomT8HS_-J4Nn2pRVzLU8WSqARoJ4/view?usp=drivesdk"
+  },
+  {
+    "file": "Maharashtra_Green Hydrogen_Policy_2023.pdf",
+    "state": "Maharashtra",
+    "year": 2023,
+    "month": "January",
+    "power_type": "Green Hydrogen",
+    "category": "Policy",
+    "drive_id": "12zzyEgaJKmoaMOojMpO75-THYuOynTt3",
+    "drive_link": "https://drive.google.com/file/d/12zzyEgaJKmoaMOojMpO75-THYuOynTt3/view?usp=drivesdk"
+  },
+  {
+    "file": "Maharashtra_Renewable Energy_Policy_2015.pdf",
+    "state": "Maharashtra",
+    "year": 2015,
+    "month": "",
+    "power_type": "Renewable Energy",
+    "category": "Policy",
+    "drive_id": "1SaCCGiV62xj1Ue4XSEZvyKV6VstyX6gV",
+    "drive_link": "https://drive.google.com/file/d/1SaCCGiV62xj1Ue4XSEZvyKV6VstyX6gV/view?usp=drivesdk"
+  },
+  {
+    "file": "Gujarat_Green Hydrogen_Policy_2025.pdf",
+    "state": "Gujarat",
+    "year": 2025,
+    "month": "January",
+    "power_type": "Green Hydrogen",
+    "category": "Policy",
+    "drive_id": "1-WiQ_-ihJYXAyJWLmT7V45ccv4A4k8g7",
+    "drive_link": "https://drive.google.com/file/d/1-WiQ_-ihJYXAyJWLmT7V45ccv4A4k8g7/view?usp=drivesdk"
+  }
+]
