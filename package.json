@@ -1,0 +1,19 @@
+{
+  "name": "ai-policy-dashboard",
+  "version": "1.0.0",
+  "description": "AI Policy Dashboard with React frontend and FastAPI backend",
+  "scripts": {
+    "start": "concurrently \"npm run backend\" \"npm run frontend\"",
+    "backend": "python backend/run_server.py",
+    "frontend": "npm start --prefix frontend",
+    "dev": "npm run start"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "tailwindcss": "^4.2.2"
+  },
+  "dependencies": {
+    "firebase": "^12.12.1",
+    "pptxgenjs": "^4.0.1"
+  }
+}

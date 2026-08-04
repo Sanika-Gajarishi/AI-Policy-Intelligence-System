@@ -1,0 +1,9 @@
+﻿{
+  "name": "ai-policy-dashboard-backend-node",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Node-side dependencies for PPTX generation (generate_pptx.js)",
+  "dependencies": {
+    "pptxgenjs": "^3.12.0"
+  }
+}

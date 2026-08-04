@@ -1,0 +1,99 @@
+
+# ============================================================================
+# PYTHON
+# ============================================================================
+# Python cache — all levels
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python build artifacts
+dist/
+build/
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# ============================================================================
+# SECRETS & ENVIRONMENT
+# ============================================================================
+# Environment variables
+.env
+.env.local
+.env.*.local
+backend/.env
+frontend/.env
+frontend/.env.local
+
+# Credentials & service accounts
+backend/credentials/
+**/*service-account*.json
+**/*.pem
+**/*.key
+
+# ============================================================================
+# DATA & LOGS (Don't push to GitHub)
+# ============================================================================
+backend/data/raw_pdfs/
+backend/data/scraped_queue/
+backend/data/sessions.json
+backend/data/metadata_cache.json
+backend/data/scrape_queue.json
+backend/data/scraper_seen_urls.json
+backend/debug.log
+backend/logs/
+
+# ============================================================================
+# FRONTEND
+# ============================================================================
+frontend/node_modules/
+frontend/build/
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+
+# ============================================================================
+# IDE & EDITOR
+# ============================================================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+*.sublime-workspace
+*.sublime-project
+
+# ============================================================================
+# OS FILES
+# ============================================================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.bak
+*.tmp
